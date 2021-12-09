@@ -6,14 +6,14 @@ public class GitHub {
         System.out.println("Merhaba Dunya.");
 
 
+
         System.out.println("1.Master satir ");
 
 
 
 
+        System.out.println("1. Local Master");
     }
-
-
 
 
 
